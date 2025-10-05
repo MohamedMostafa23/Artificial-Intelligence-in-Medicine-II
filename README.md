@@ -1,5 +1,4 @@
-# Artificial Intelligence in Medicine II Course (In Progress)
-
+# Artificial Intelligence in Medicine II Course
 Welcome to the repository for the "Artificial Intelligence in Medicine II" course at the Technical University of Munich (TUM)!
 
 ## Course Description
